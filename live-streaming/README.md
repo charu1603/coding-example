@@ -10,6 +10,8 @@ This example demonstrates how to build a **simple live streaming app** using Vid
 
 This guide explains how the app works, what VideoSDK features are used, and how you can set it up easily—even if you're new to video streaming or React.
 
+<img width="1536" height="1024" alt="ChatGPT Image Sep 7, 2025, 11_47_56 AM" src="https://github.com/user-attachments/assets/f8aee2dc-d108-4c79-9d54-38f68aeaac21" />
+
 ---
 
 ## ✅ Features Explained in Simple Terms
@@ -170,3 +172,4 @@ npm run dev
 ### ✅ Open `http://localhost:3000/` in your browser to test the live stream!
 
 ---
+
