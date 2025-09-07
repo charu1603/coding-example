@@ -8,7 +8,7 @@ repository structure
 ```bash
 coding-example/
 ├── README.md
-├── video-calling/
+├── video-call/
 │   ├── public/
 │   ├── src/
 │   ├── package.json
@@ -21,9 +21,9 @@ coding-example/
 └── .gitignore
 ```
 
-video-calling/: A standalone React app showing 1-on-1 or video meetings: 
+video-call/: A standalone React app showing 1-on-1 or video meetings: 
 ```bash
-https://github.com/charu1603/coding-example/blob/main/video-calling/README.md
+https://github.com/charu1603/coding-example/blob/main/video-call/README.md
 ```
 
 live-streaming/: A standalone React app showcasing live streaming with host/audience modes.
