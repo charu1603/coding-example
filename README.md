@@ -8,12 +8,12 @@ repository structure
 ```bash
 coding-example/
 ├── README.md
-├── meeting/
+├── video-calling/
 │   ├── public/
 │   ├── src/
 │   ├── package.json
 │   └── ... 
-├── live-stream/
+├── live-streaming/
 │   ├── public/
 │   ├── src/
 │   ├── package.json
@@ -21,9 +21,15 @@ coding-example/
 └── .gitignore
 ```
 
-meeting/: A standalone React app showing 1-on-1 or video meetings. 
+video-calling/: A standalone React app showing 1-on-1 or video meetings: 
+```bash
+https://github.com/charu1603/coding-example/blob/main/video-calling/README.md
+```
 
-live-stream/: A standalone React app showcasing live streaming with host/audience modes.
+live-streaming/: A standalone React app showcasing live streaming with host/audience modes.
+```bash
+https://github.com/charu1603/coding-example/blob/main/live-streaming/README.md
+```
 
 Each folder should have its own README.md explaining the project in detail.
 
